@@ -1,6 +1,6 @@
 # Automated Test for Web Application Using Java and Selenium
 
-# Google Finace Page Test Automation
+# Google Finance Page Test Automation
 
 This project contains an automated test script written in Java using Selenium WebDriver and TestNG. The script performs the following tasks:
 
